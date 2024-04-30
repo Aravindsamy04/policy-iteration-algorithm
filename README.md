@@ -77,7 +77,10 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ## OUTPUT:
 
+![optpolicy](https://github.com/Aravindsamy04/policy-iteration-algorithm/assets/113497037/74728003-c7dc-4899-b428-241e323bf18f)
+![optvaluefun](https://github.com/Aravindsamy04/policy-iteration-algorithm/assets/113497037/88cd6ade-31cf-466a-98f1-b419b6429057)
 
+![successrate](https://github.com/Aravindsamy04/policy-iteration-algorithm/assets/113497037/58dddf80-81dc-4ff6-b786-043cab49bf1a)
 
 
 
